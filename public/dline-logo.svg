@@ -1,0 +1,11 @@
+<svg width="350" height="62" viewBox="0 0 350 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="62" rx="8" fill="white" />
+  <g transform="translate(8 6)">
+    <path d="M44.5 0H0V52H44.5C61.897 52 76 37.897 76 20.5C76 3.103 61.897 -11 44.5 0Z" fill="#1A4A7E" />
+    <path d="M76 0H112L96 18.5L112 37H76V0Z" fill="#F89D14" />
+    <path d="M112 52H148L160 34.5L148 20H112V52Z" fill="#F89D14" opacity="0.8" />
+    <path d="M80 8H94V44H80V8Z" fill="#1A4A7E" />
+  </g>
+  <text x="118" y="30" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">D LINE TECHNICAL</text>
+  <text x="118" y="48" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">ESTABLISHMENT</text>
+</svg>
